@@ -24,9 +24,11 @@ To execute this Console application I created a DataBase and a Table where I ins
 SQL:
 
 Create Database HelloDB
+
 Go
 
 Use HelloDB
+
 Go
 
 Create table HelloWorld
@@ -35,9 +37,11 @@ Create table HelloWorld
      Message nvarchar(50),
 
 )
+
 Go
 
 Insert into HelloWorld values ('Hello World')
+
 Go
 
 
