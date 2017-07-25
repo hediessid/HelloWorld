@@ -14,6 +14,7 @@ application, etc.
 
   i. Use common design patterns (inheritance, e.g.) to account for these future
 concerns.
+
   ii. Use configuration files or another industry-standard mechanism for determining
 where to write the information to.
 
