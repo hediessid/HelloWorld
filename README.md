@@ -19,3 +19,26 @@ concerns.
 where to write the information to.
 
 Write unit tests to support the API.
+
+To execute this Console application I created a DataBase and a Table where I inserted HelloWorld Data.
+SQL:
+
+Create Database HelloDB
+Go
+
+Use HelloDB
+Go
+
+Create table HelloWorld
+(
+     ID int primary key identity,
+     Message nvarchar(50),
+
+)
+Go
+
+Insert into HelloWorld values ('Hello World')
+Go
+
+
+
