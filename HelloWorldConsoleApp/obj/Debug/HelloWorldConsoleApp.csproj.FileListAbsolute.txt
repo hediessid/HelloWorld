@@ -1,0 +1,7 @@
+C:\Users\essid\OneDrive\Documents\Visual Studio 2017\Projects\HelloWorldMaster\HelloWorld\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe
+C:\Users\essid\OneDrive\Documents\Visual Studio 2017\Projects\HelloWorldMaster\HelloWorld\HelloWorldConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\essid\OneDrive\Documents\Visual Studio 2017\Projects\HelloWorldMaster\HelloWorld\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.exe.config
+C:\Users\essid\OneDrive\Documents\Visual Studio 2017\Projects\HelloWorldMaster\HelloWorld\HelloWorldConsoleApp\bin\Debug\HelloWorldConsoleApp.pdb
+C:\Users\essid\OneDrive\Documents\Visual Studio 2017\Projects\HelloWorldMaster\HelloWorld\HelloWorldConsoleApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\essid\OneDrive\Documents\Visual Studio 2017\Projects\HelloWorldMaster\HelloWorld\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.exe
+C:\Users\essid\OneDrive\Documents\Visual Studio 2017\Projects\HelloWorldMaster\HelloWorld\HelloWorldConsoleApp\obj\Debug\HelloWorldConsoleApp.pdb

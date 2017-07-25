@@ -1,0 +1,9 @@
+C:\Users\essid\OneDrive\Documents\Visual Studio 2017\Projects\HelloWorldMaster\HelloWorld\InfrastructureHelloWorld\bin\Debug\InfrastructureHelloWorld.dll.config
+C:\Users\essid\OneDrive\Documents\Visual Studio 2017\Projects\HelloWorldMaster\HelloWorld\InfrastructureHelloWorld\bin\Debug\InfrastructureHelloWorld.dll
+C:\Users\essid\OneDrive\Documents\Visual Studio 2017\Projects\HelloWorldMaster\HelloWorld\InfrastructureHelloWorld\bin\Debug\InfrastructureHelloWorld.pdb
+C:\Users\essid\OneDrive\Documents\Visual Studio 2017\Projects\HelloWorldMaster\HelloWorld\InfrastructureHelloWorld\bin\Debug\EntityFramework.dll
+C:\Users\essid\OneDrive\Documents\Visual Studio 2017\Projects\HelloWorldMaster\HelloWorld\InfrastructureHelloWorld\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\essid\OneDrive\Documents\Visual Studio 2017\Projects\HelloWorldMaster\HelloWorld\InfrastructureHelloWorld\bin\Debug\EntityFramework.xml
+C:\Users\essid\OneDrive\Documents\Visual Studio 2017\Projects\HelloWorldMaster\HelloWorld\InfrastructureHelloWorld\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\essid\OneDrive\Documents\Visual Studio 2017\Projects\HelloWorldMaster\HelloWorld\InfrastructureHelloWorld\obj\Debug\InfrastructureHelloWorld.dll
+C:\Users\essid\OneDrive\Documents\Visual Studio 2017\Projects\HelloWorldMaster\HelloWorld\InfrastructureHelloWorld\obj\Debug\InfrastructureHelloWorld.pdb
